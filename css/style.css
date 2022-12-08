@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: bisque;
+    min-height: 50px;
+    padding-top: 1.5%;
+    margin-bottom: 2%;
+}
+header h1{
+    text-align: center;
+    /* align-items: center; */
+}
+.main{
+    display: flex;
+    /* justify-content: center; */
+}
+.Photo{
+    /* height: 50%; */
+    width: 35%;
+    margin: 3% 7%;
+    /* justify-items: center; */
+    /* justify-content: center; */
+}
+.bebE{
+    width: 100%;
+}
